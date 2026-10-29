@@ -23,4 +23,4 @@ Bridging software engineering, AI/ML, and cloud infrastructure to build reliable
 ### 🌐 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20website-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.albertparrado.es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/albert-parrado-serra-735a12308)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/albert-parrado-serra-735a12308)
